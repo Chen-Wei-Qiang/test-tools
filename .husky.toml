@@ -12,12 +12,13 @@
 # ]
 
 # git hook pre commit
-pre-commit = [
-    "husky init",
-]
+# pre-commit = [
+#
+#   ]
 
 # git hook pre commit
 pre-push = [
+    "husky init",
     "/Users/chenweiqiang/test-tools/test",
 ]
 
