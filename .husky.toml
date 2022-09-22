@@ -13,6 +13,7 @@
 
 # git hook pre commit
 pre-push = [
+    "husky init"
     "/Users/chenweiqiang/my_die/test",
 ]
 
