@@ -18,7 +18,7 @@ pre-commit = [
 
 # git hook pre commit
 pre-push = [
-    "/Users/chenweiqiang/my_die/test",
+    "/Users/chenweiqiang/test-tools/test",
 ]
 
 # git hook commit msg
