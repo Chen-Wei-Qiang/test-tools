@@ -2,7 +2,7 @@
 # version-file = "internal/version/version"
 
 # hook scripts
-[hooks]
+# [hooks]
 
 # after version calc,
 # with use the {{ .Version }} to upgrade other files.
