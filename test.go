@@ -31,7 +31,6 @@ func ExecShell(command string, arg ...string) (out string, err error) {
 
 // Repo ...
 // git config core.hooksPath .githooks  解决方式1
-//                                      解决方式2
 func Repo() (repo string, err error) {
 	var (
 		out string
