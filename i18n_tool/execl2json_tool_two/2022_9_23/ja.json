@@ -1,0 +1,3 @@
+{
+  "service.importing_data": "{{.Param}}データをインポートしています"
+}
