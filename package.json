@@ -1,5 +1,7 @@
 {
   "scripts": {
-    "prepare": "husky init"
+    "prepare": "husky init",
+    1
+            231
   }
 }
